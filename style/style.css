@@ -1,10 +1,23 @@
+.app-logo {
+	margin: 10px;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;	
+}
+
+.app-logo .clone-text {
+	font-size: 50%;
+	color: red;
+}
+
 .search-bar {
 	margin: 20px;
 	text-align: center;
 }
 
 .search-bar input {
+	text-align: center;
 	width: 75%;
+	padding-left: 10px;
 }
 
 .video-item {

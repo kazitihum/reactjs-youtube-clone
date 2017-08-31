@@ -30,8 +30,9 @@ class App extends Component {
 
 	render() {
 		const videoSearch = _.debounce((term) => {this.videoSearch(term)}, 300);
-
+		
 		return (
+			console.log(React.version),
 			<div>
 				<SearchBar onSearchTermChange={videoSearch} />
 				<VideoDetail video={this.state.selectedVideo} />
