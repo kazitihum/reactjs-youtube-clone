@@ -1,8 +1,8 @@
-# Youtube Clone App using ReactJS
-
+## Youtube Clone App using ReactJS
+### [Github](https://github.com/aswinsanakan/reactjs-youtube-clone) | [Demo](youtube-minimal.herokuapp.com)
 A Youtube Clone App as part of learning ReactJS (using official Youtube APIs).
 
-# Getting Started
+### Getting Started
 
 Clone the repo.
 Then,
